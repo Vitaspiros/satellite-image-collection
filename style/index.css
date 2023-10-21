@@ -1,0 +1,14 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+
+    font-family: sans-serif;
+}
+
+.imgDiv {
+    padding-bottom: 60px;
+}
+
+a {
+    color: rgb(71, 71, 146);
+}

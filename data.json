@@ -1,0 +1,14 @@
+[
+    {
+        "name": "noaa1.png",
+        "label": "This is my second try. The quality of the image was not as good, but image processing improved it."
+    },
+    {
+        "name": "noaa2.png",
+        "label": "I lost the first five minutes of the pass, so I couldn't record it completely."
+    },
+    {
+        "name": "noaa3.png",
+        "label": "This is the best signal that I have received so far."
+    }
+]
