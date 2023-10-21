@@ -31,7 +31,7 @@
 
     <!-- We aren't using footer tag due to HTML4 backwards compatibility -->
     <h5>
-        The code of this website is published on <a href="#">Github</a> and is licensed under the AGPL-v3 license.
+        The code of this website is published on <a href="https://github.com/Vitaspiros/satellite-image-collection">Github</a> and is licensed under the AGPL-v3 license.
     </h5>
     </center>
 </body>
