@@ -10,5 +10,9 @@
     {
         "name": "noaa3.png",
         "label": "This is the best signal that I have received so far."
+    },
+    {
+        "name": "noaa4.png",
+        "label": "Good signal again. This time I received the baseband instead of the audio, yielding a 7GB audio file."
     }
 ]
