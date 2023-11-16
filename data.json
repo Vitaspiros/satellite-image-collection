@@ -18,5 +18,9 @@
     {
         "name": "noaa5.png",
         "label": "This noise part in the beginning of the image is because of me recording at the wrong frequency. Oops!"
+    },
+    {
+        "name": "meteor1.png",
+        "label": "The first image from Meteor-M2-3. The quality is much better, especially the clouds."
     }
 ]

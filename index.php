@@ -11,7 +11,7 @@
         $imgStyle = "\"transform: rotate({$degrees}deg);\"";
         $textOffset = ($degrees / DEGREE_LIMIT) * -30;
         $textStyle = "\"transform: rotate({$degrees}deg) translateX({$textOffset}px); font-weight: 500;\"";
-        array_push($display_html, "<div class=\"imgDiv\"><img style=$imgStyle src=\"img/{$image->name}\"/><br/><p style=$textStyle>{$image->label}</p></div>");
+        array_push($display_html, "<div class=\"imgDiv\"><img style=$imgStyle src=\"img/{$image->name}\" width=\"909\" height=\"801\"/><br/><p style=$textStyle>{$image->label}</p></div>");
     }
 ?>
 
