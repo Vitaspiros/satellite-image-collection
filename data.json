@@ -1,26 +1,30 @@
 [
     {
-        "name": "noaa1.png",
+        "name": "noaa1.jpg",
         "label": "This is my second try. The quality of the image was not as good, but image processing improved it."
     },
     {
-        "name": "noaa2.png",
+        "name": "noaa2.jpg",
         "label": "I lost the first five minutes of the pass, so I couldn't record it completely."
     },
     {
-        "name": "noaa3.png",
+        "name": "noaa3.jpg",
         "label": "This is the best signal that I have received so far."
     },
     {
-        "name": "noaa4.png",
+        "name": "noaa4.jpg",
         "label": "Good signal again. This time I received the baseband instead of the audio, yielding a 7GB audio file."
     },
     {
-        "name": "noaa5.png",
+        "name": "noaa5.jpg",
         "label": "This noise part in the beginning of the image is because of me recording at the wrong frequency. Oops!"
     },
     {
-        "name": "meteor1.png",
-        "label": "The first image from Meteor-M2-3. The quality is much better, especially the clouds."
+        "name": "meteor1.jpg",
+        "label": "The first image from Meteor M2-3. The quality is much better, especially the clouds."
+    },
+    {
+        "name": "meteor2.jpg",
+        "label": "The signal was not too strong, so there are many black lines in the image."
     }
 ]

@@ -1,7 +1,6 @@
 <?php
     $data = file_get_contents("data.json");
     $json = json_decode($data);
-
     $display_html = array();
 
     const DEGREE_LIMIT = 10;
